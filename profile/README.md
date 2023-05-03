@@ -69,7 +69,7 @@ Grade | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- | F
 -|-|-|-|-|-|-|-|-|-|-|-|-
 Score | 92+ | 91-90 | 89-87 | 86-82 | 81-80 | 79-77 | 76-72 | 71-70 | 69-67 | 66-62 | 61-60 | 59-
 
-- REMINDER: A passing grade for core classes in CS is a C or above. A C-, 72 or below, is not a passing grade for CS majors.
+- *REMINDER: A passing grade for core classes in CS is a C or above. A C-, 72 or below, is not a passing grade for CS majors.*
 
 ## University Policies
 
